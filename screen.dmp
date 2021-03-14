@@ -1,0 +1,54 @@
+
+function add_hook exists and can be called
+Calling add_hook ==>
+==> String:
+"('add_hook',)"
+
+function bind_hook exists and can be called
+Calling bind_hook ==>
+==> Дружище, это None, тут правда ничего нет
+
+function unbind_hook exists and can be called
+Calling unbind_hook ==>
+==> Set:
+☼ {'scissors', 'rock', 'paper'}
+
+function compare_hook exists and can be called
+Calling compare_hook ==>
+==> List:
+● Compare_hook
+● зачем-то вернула
+● обычный список
+
+function delete_hook exists and can be called
+Calling delete_hook ==>
+==> Bool:
+✓ True 
+
+function modify_hook exists and can be called
+Calling modify_hook ==>
+==> Tuple:
+► strange
+► from modify_hook
+
+function modrdn_hook exists and can be called
+Calling modrdn_hook ==>
+==> Какая-то дичь! Проверь-ка тип результата функции modrdn_hook
+
+function search_hook exists and can be called
+Calling search_hook ==>
+==> String:
+"வணக்கம், தளம் "ஹப்ராஹப்ர்"."
+
+function abandon_hook exists and can be called
+Calling abandon_hook ==>
+==> Dict:
+"тук-тук, кто там?!": "tnt4brain на Хабре"
+
+function extended_hook exists and can be called
+Calling extended_hook ==>
+==> Float: 3.141593
+
+function response_hook exists and can be called
+Calling response_hook ==>
+==> Long: 100500
